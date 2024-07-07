@@ -1,0 +1,72 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "git - Beginner Level 1",
+            "date": "2023-03-21",
+            "description": "In this course you will learn how to install git, clone a repository in a GUI or via a terminal. You will then be shown how to stage files ready for committing and pushing to a remote branch. Next how to branch to work on a feature and how to create a Pull Request in GitHub. How to fetch changes from the server, and prune or remove any removed branches, then how to delete a branch locally and on a the remote.",
+            "image": "images/git-level1.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=2970",
+            "code": "https://github.com/599CD/git-Beginner-L1",
+            "tags": ["git"]
+        },
+        {
+            "id": 2,
+            "name": "Rubberduck VBA Intro",
+            "date": "2023-04-12",
+            "description": "In this course I will run through the features of Rubberduck at a high level, showing you them in action and how you can change the settings for each of them.",
+            "image": "images/RubberduckVBA-Intro.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=2972",
+            "code": "https://github.com/599CD/RubberduckVBA-Beginner-L1",
+            "tags": ["rubberduck", "VBA", "VBE"]
+        },
+        {
+            "id": 3,
+            "name": "Developer Learning Zone TechHelp",
+            "date": "2023-04-12",
+            "description": "Tips and Tricks",
+            "image": "images/DLZ_TechHelp.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=2674",
+            "code": "https://github.com/599CD/powershell",
+            "tags": ["PowerShell", "ps", "POSH"]
+        },
+        {
+            "id": 4,
+            "name": "Alex's Access Learning Zone TechHelp",
+            "date": "2023-05-15",
+            "description": "Tips and Tricks",
+            "image": "images/ALZ_TechHelp.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=2729",
+            "tags": ["Access", "database"]
+        },
+        {
+            "id": 5,
+            "name": "VB.NET Beginner 1",
+            "date": "2023-10-01",
+            "description": "In this course I will run through getting setup to create your first VB.NET program.",
+            "image": "images/VBNET-Beginner-1.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=2951",
+            "code": "https://github.com/599CD/vbnet-beginner1",
+            "tags": ["rubberduck"]
+        },
+        {
+            "id": 6,
+            "name": "VB Learning Zone TechHelp",
+            "date": "2024-07-03",
+            "description": "Tips and Tricks",
+            "image": "images/VBLZ_TechHelp.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=2971",
+            "tags": ["VB", "VB.NET", ".NET"]
+        },
+        {
+            "id": 7,
+            "name": "PowerShell Learning Zone TechHelp",
+            "date": "2024-07-08",
+            "description": "Tips and Tricks",
+            "image": "images/PSLZ_TechHelp.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=3259",
+            "code": "https://github.com/599CD/powershell",
+            "tags": ["PowerShell", "ps", "POSH"]
+        }
+    ]
+}
