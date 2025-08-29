@@ -47,7 +47,7 @@
             "image": "images/VBNET-Beginner-1.png",
             "site": "https://599cd.com/blog/display-article.asp?ID=2951",
             "code": "https://github.com/599CD/vbnet-beginner1",
-            "tags": ["rubberduck"]
+            "tags": ["VB", "VB.NET", ".NET"]
         },
         {
             "id": 6,
@@ -67,6 +67,16 @@
             "site": "https://599cd.com/blog/display-article.asp?ID=3259",
             "code": "https://github.com/599CD/powershell",
             "tags": ["PowerShell", "ps", "POSH"]
+        },
+        {
+            "id": 8,
+            "name": "VB.NET Beginner 2",
+            "date": "2025-02-02",
+            "description": "This course picks up where VB.NET B1 left off. We will expand upon many of the topics and techniques we learned about in that class.",
+            "image": "images/VBNET-Beginner-2.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=2952",
+            "code": "https://github.com/599CD/vbnet-beginner2",
+            "tags": ["VB", "VB.NET", ".NET"]
         }
     ]
 }
