@@ -44,9 +44,9 @@
             <div ng-controller="controller">
                 <div class="container">
                     <div class="row">
-                        <div ng-repeat="course in data | filter:searchText" class="col-md-3" style="margin-bottom: 50px">
+                        <div ng-repeat="course in data | filter:searchText | orderBy:'-id'" class="col-md-3" style="margin-bottom: 50px">
                             <div class="card" style="width: 18rem" data-id="{{course.id}}">
-                                <img ng-if="course.image.length > 0" ng-src="{{course.image}}" class="card-img-top" alt="{{course.name}}" />
+                                <img ng-if="course.image.length > 0" ng-src="{{course.image}}" ng-class="{'comingSoon':course.comingSoon}" class="card-img-top" alt="{{course.name}}" />
                                 <div class="card-header">
                                     <a ng-href="{{course.site}}">{{course.name}}</a>
                                 </div>
