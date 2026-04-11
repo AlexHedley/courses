@@ -14,6 +14,8 @@
 
 `py -m http.server`
 
+`python -m http.server -b 127.0.0.1`
+
 -   [local](http://localhost:8000/)
 
 <!-- ## Docs
