@@ -27,8 +27,8 @@
             "description": "Tips and Tricks",
             "image": "images/DLZ_TechHelp.png",
             "site": "https://599cd.com/blog/display-article.asp?ID=2674",
-            "code": "https://github.com/599CD/powershell",
-            "tags": ["PowerShell", "ps", "POSH"]
+            "code": "https://github.com/599CD",
+            "tags": ["misc"]
         },
         {
             "id": 4,
@@ -72,11 +72,43 @@
             "id": 8,
             "name": "VB.NET Beginner 2",
             "date": "2025-02-02",
-            "description": "This course picks up where VB.NET B1 left off. We will expand upon many of the topics and techniques we learned about in that class.",
+            "description": "If/Then, InputBox, Variables, Random Numbers, For/Next, Looping, Image Controls, PMT, Loan Calculator",
             "image": "images/VBNET-Beginner-2.png",
             "site": "https://599cd.com/blog/display-article.asp?ID=2952",
             "code": "https://github.com/599CD/vbnet-beginner2",
             "tags": ["VB", "VB.NET", ".NET"]
+        },
+        {
+            "id": 9,
+            "name": "VB.NET Beginner 3",
+            "date": "2025-02-02",
+            "description": "Events, Properties, Variables, Select Case, Form Resize, BorderStyle, StartupPosition, LEN, Option Explicit, More",
+            "image": "images/VBNET-Beginner-3.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=2953",
+            "code": "https://github.com/599CD/vbnet-beginner3",
+            "tags": ["VB", "VB.NET", ".NET", "coming soon"],
+            "comingSoon": true
+        },
+        {
+            "id": 10,
+            "name": "SQL Learning Zone TechHelp",
+            "date": "2026-02-21",
+            "description": "Tips and Tricks",
+            "image": "images/SLZ_TechHelp.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=4284",
+            "code": "https://github.com/599CD/sql",
+            "tags": ["SQL", "database"]
+        },
+        {
+            "id": 11,
+            "name": "SQL Beginner 0",
+            "date": "2026-03-21",
+            "description": "Introduction to SQL",
+            "image": "images/SLZ_TechHelp.png",
+            "site": "https://599cd.com/blog/display-article.asp?ID=4291",
+            "code": "https://github.com/599CD/sql-beginner0",
+            "tags": ["SQL", "database", "coming soon"],
+            "comingSoon": true
         }
     ]
 }
